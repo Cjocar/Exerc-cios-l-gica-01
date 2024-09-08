@@ -18,7 +18,7 @@ programa {
 
     se (media >= 6)
     {
-      escreva ("passou de ano\n")
+      escreva ("O aluno passou de ano\n")
     }
 
     senao 
@@ -33,7 +33,7 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 550; 
+ * @POSICAO-CURSOR = 558; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
