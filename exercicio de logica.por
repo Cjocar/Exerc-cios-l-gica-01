@@ -23,7 +23,7 @@ programa {
 
     senao 
     {
-      escreva ("O aluno foi reprovado\n")
+      escreva ("O aluno foi reprovado de serie\n")
     }
   }
 }
@@ -33,7 +33,7 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 558; 
+ * @POSICAO-CURSOR = 550; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
