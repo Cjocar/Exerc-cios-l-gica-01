@@ -11,10 +11,10 @@ programa {
     leia (nota3)
     
     soma = nota1 + nota2 + nota3
-    escreva ("as somas das nota �: ",soma)
+    escreva ("as somas das nota é: ",soma)
     
     media = soma / 3
-    escreva ("\na media desse aluno �: ",media,"\n")
+    escreva ("\na media desse aluno é: ",media,"\n")
 
     se (media >= 6)
     {
@@ -23,7 +23,19 @@ programa {
 
     senao 
     {
-      escreva ("foi reprovado\n")
+      escreva ("O aluno foi reprovado\n")
     }
   }
 }
+
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 550; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */
